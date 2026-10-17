@@ -1,0 +1,15 @@
+{
+  "name": "aisherpa-online",
+  "description": "AIOS by AI Sherpa for the Claude app: one plugin, your routines and thinking tools, with your context as Google Docs in your own Drive.",
+  "owner": {
+    "name": "AI Sherpa",
+    "email": "santiago@aisherpa.me"
+  },
+  "plugins": [
+    {
+      "name": "aios-online",
+      "source": "./plugins/aios-online",
+      "description": "Your AI system in the Claude app: routines and thinking tools, with your context as Google Docs in your own Drive"
+    }
+  ]
+}
