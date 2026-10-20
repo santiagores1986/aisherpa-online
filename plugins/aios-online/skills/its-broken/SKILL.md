@@ -13,8 +13,10 @@ They're not an engineer. Find what broke, explain it plainly, and fix what's saf
      typed in a chat outside a project: open Projects (the Code side, `</>`) and pick the project.
    - **Plugin:** can you see the AI Sherpa commands (`/aios-online:start`, `/aios-online:remember`...)?
      If not: Customize → Plugins (on the chat side of the app, the speech-bubble icon) → Yours → check that
-     **Aios online** is there. If it isn't, add it again: Add → Add marketplace → Add from a repository →
-     `santiagores1986/aisherpa-online` → Sync → Aios online → Add.
+     **Aios online** is there. If it isn't: Customize → Plugins → Discover → search `aios` → Aios online →
+     Add. If Discover doesn't list it, the marketplace is missing too: Add → Add marketplace → Add from a
+     repository → `santiagores1986/aisherpa-online` → Sync, then Discover → Aios online → Add. No GitHub
+     account is needed; if a GitHub page opens, close it.
    - **Google Drive:** can you search their Drive? **Google Docs:** can you read a Doc? A missing one:
      Customize → Connectors → Google Drive or Google Docs → Connect, accept Google's screen. A new
      connection only reaches new threads: start a new one.
